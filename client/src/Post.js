@@ -12,7 +12,8 @@ export default function Post() {
                 </p>
                 <p className="summary"> a subdivision of a written composition that consists of one or more sentences, deals with one point or gives the words of one speaker, and begins on a new usually indented line. The introductory paragraphs were written by the editor. b. : a short composition or note that is complete in one paragraph.</p>
 
-            </div>
+            </div> 
+
         </div>
-    )
+    );
 }
